@@ -1,1 +1,1 @@
-echo "<h1> testing freebuild + build1 </h1>" > index.html
+echo "<h1> testing freebuild + build </h1>" > index.html
